@@ -87,7 +87,7 @@ button.navbar-toggle:hover, button.navbar-toggle:hover span{
   box-shadow: 0 1px 5px 1px #cccccc;
 }
 
-#menu-tile span{
+#menu-tile h3{
   position: float;
   float: right;
   width: 100%;
